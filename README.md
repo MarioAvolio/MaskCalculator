@@ -11,14 +11,14 @@ Insert a file with this property in MaskCalculator folder:
 **NAME: NUMBER**
 
 Example:
-TAP: 2 \n
-CD1: 6 \n
-CD2: 2 
-CD4: 2
-CD5: 186
-CD6: 77
-CD7: 20
-CD8: 59
+TAP: 2 <br />
+CD1: 6 <br />
+CD2: 2 <br />
+CD4: 2 <br />
+CD5: 186 <br />
+CD6: 77 <br />
+CD7: 20 <br />
+CD8: 59 <br />
 
 Execute the script:
 
@@ -28,11 +28,11 @@ Execute the script:
 ```
 Output example:
 
-MASK(TAP): 30 
-MASK(CD1): 29 
-MASK(CD2): 30 
-MASK(CD4): 30 
-MASK(CD5): 24 
-MASK(CD6): 25 
-MASK(CD7): 27 
-MASK(CD8): 26 
+MASK(TAP): 30 <br />
+MASK(CD1): 29 <br />
+MASK(CD2): 30 <br />
+MASK(CD4): 30 <br />
+MASK(CD5): 24 <br />
+MASK(CD6): 25 <br />
+MASK(CD7): 27 <br />
+MASK(CD8): 26 <br />
