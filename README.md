@@ -11,9 +11,9 @@ Insert a file with this property in MaskCalculator folder:
 **NAME: NUMBER**
 
 Example:
-TAP: 2
-CD1: 6
-CD2: 2
+TAP: 2 \n
+CD1: 6 \n
+CD2: 2 
 CD4: 2
 CD5: 186
 CD6: 77
